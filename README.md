@@ -1,2 +1,2 @@
 # MasterThesis-code
-This is the code used in my master thesis "Transmission Electron Microscopy Studies of the Thermal Decomposition of 2D α-RuCl₃"
+This is the code used in my master thesis "Transmission Electron Microscopy Studies of the Thermal Decomposition of 2D α-RuCl₃". The code included is based on HyperSpy, exSpy, Matplotlib and Numpy, and is used to analyze and present transmission electron microscopy data. The data inspected is ETEM time-temperature series, SPED data, STEM-EDS, EELS, and conventional TEM images. 
